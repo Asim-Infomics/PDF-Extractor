@@ -19,12 +19,6 @@ A simple Streamlit app that extracts phone numbers starting with `923` and assoc
 
 ---
 
-## 🚀 Demo
-
-<img src="https://user-images.githubusercontent.com/your-username/demo-image.png" alt="App Screenshot" width="600">
-
----
-
 ## 🛠️ Installation
 
 ### 1. Clone the repository
@@ -119,7 +113,7 @@ Results are exported in an Excel file with the following columns:
 
 **Asim Mehmood**  
 MPhil Researcher | Bioinformatics & Software Developer  
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@Asim-Infomics](https://github.com/Asim-Infomics))
 
 ---
 
